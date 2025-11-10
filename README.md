@@ -75,7 +75,7 @@ Version Control: GitHub
 
 Clone the repo:
 ```
-git clone https://github.com/your-username/Practice_Automation_Selenium.git
+git clone https://github.com/Shivshanker869/Practice_Automation_Selenium.git
 ```
 
 ---
